@@ -11,5 +11,9 @@ I collaborated with an agile team to design and build a high-fidelity mock books
 ### Tic-Tac-Toe AI Agent Implementation, Intro to Artificial Intelligence
 In this project, I developed AI agents capable of playing Tic-Tac-Toe against human opponents using MiniMax and Alpha-Beta Pruning algorithms. I enhanced the efficiency of the AI’s decision-making process by implementing Alpha-Beta Pruning, which significantly optimized the algorithm’s performance. Additionally, I incorporated a feature that allows users to select between the MiniMax and Alpha-Beta Pruning algorithms during gameplay, providing a more interactive and engaging experience.
 
+## Data Science Website
+This is my personal website where I showcase my data science projects, analyzing datasets, building predictive models, and presenting insights through visualizations. 
+https://srbutters05.wixsite.com/stephenbutters
+
 ## Goals & Objectives:
 My goal is to continually deepen my expertise in data science, ensuring that I stay at the forefront of technological advancements through ongoing learning and professional development. I am commited to drive innovative solutions by leading projects that push the boundaries of technology and create impactful, real-world applications. I also aim to foster collaboration and leadership by building and nurturing relationships within diverse teams, guiding projects effectively, and mentoring peers. I also plan to leverage my international experiences and multilingual skills to work on global projects, contributing to diverse and inclusive technological solutions with a broad, global perspective.
