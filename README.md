@@ -2,7 +2,7 @@
 Hello! My name is Stephen Butters. I grew up in Raleigh, North Carolina where I first got interested in the world of Computer Science through my high school's robotics team. I am passionate about leveraging technology to solve complex problems and create impactful solutions. My academic journey has been marked by a consistent commitment to excellence, as evidenced by my presence on the Dean’s and Chancellor’s Lists.
 
 ## Academic Background
-I am pursuing a Bachelor of Science in Computer Science at UNCC, expected to graduate in May 2025, with a minor in Japanese. My academic focus is on Data Science and my international perspective was enriched through a study abroad program at Sophia University in Tokyo, Japan.
+I graduated with a Bachelor of Science in Computer Science from UNC Charlotte in May 2025, with a minor in Japanese and a concentration in Data Science. My studies focused on areas such as full-stack development, machine learning, data visualization, and statistical analysis, and I gained hands-on experience through coursework and applied projects.
 
 ## Projects
 ### Mock E-Commerce Website, Software Engineering
